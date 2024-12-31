@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\login.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:login.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\forgot_password.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:forgot_password.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\db.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:db.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.php",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\login.php",
+              "RelativeDocumentMoniker": "login.php",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\login.php",
+              "RelativeToolTip": "login.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-12-31T18:31:45.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forgot_password.php",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\forgot_password.php",
+              "RelativeDocumentMoniker": "forgot_password.php",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\forgot_password.php",
+              "RelativeToolTip": "forgot_password.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-12-31T18:31:40.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db.php",
+              "DocumentMoniker": "C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\db.php",
+              "RelativeDocumentMoniker": "db.php",
+              "ToolTip": "C:\\Users\\chris\\Desktop\\Login-and-Registration-project-main\\Login-and-Registration-project-main\\db.php",
+              "RelativeToolTip": "db.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2024-12-31T18:31:36.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
